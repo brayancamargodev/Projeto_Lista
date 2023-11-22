@@ -1,5 +1,5 @@
 {
-  "homepage": "https://https://brayancamargodev.github.io/Site_React/",
+  "homepage": "https://https://brayancamargodev.github.io/Projeto_Lista/",
   "name": "projeto-react",
   "private": true,
   "version": "0.0.0",
@@ -13,7 +13,6 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "gh-pages": "^6.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "uuid": "^9.0.1"
@@ -26,6 +25,7 @@
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
+    "gh-pages": "^6.1.0",
     "vite": "^4.4.5"
   }
 }
